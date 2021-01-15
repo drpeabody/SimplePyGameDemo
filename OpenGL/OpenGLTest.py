@@ -5,6 +5,12 @@ from pygame.locals import *
 from OpenGL.GL import *
 from OpenGL.GLU import *
 
+# Add comments to data seg
+# Lint the code
+# Add one more small feature
+# clean up
+
+
 verticies = (
     (1, -1, -1),
     (1, 1, -1),
