@@ -9,6 +9,7 @@ from OpenGL.GLU import *
 # Lint the code
 # Add one more small feature
 # clean up
+# Bring 4-5 simple tasks for diy
 
 
 verticies = (
